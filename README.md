@@ -1,2 +1,2 @@
-# AXAEddystone-iOS-SDK
-AXAEddystone-iOS-SDK
+# Eddystone-iOS-SDK
+Eddystone-iOS-SDK
