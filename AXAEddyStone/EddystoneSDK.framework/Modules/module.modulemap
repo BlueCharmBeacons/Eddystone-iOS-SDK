@@ -1,0 +1,6 @@
+framework module EddystoneSDK {
+  umbrella header "EddystoneSDK.h"
+
+  export *
+  module * { export * }
+}
